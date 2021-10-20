@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "title": "Checkup",
+        "isActive": true,
+        "price": "$11",
+        "picture": "./images/img-10.jpg",
+        "doctor": "Roxanne",
+        "email": "roxannecarroll@netbook.com",
+        "description": "An eye exam involves a series of tests to evaluate your vision and check for eye diseases. Your eye doctor is likely to use various instruments and request that you look through an arrayof lenses."
+    },
+    {
+        "id": "2",
+        "title": "Cornea Transplant",
+        "isActive": false,
+        "price": "$2200",
+        "picture": "./images/img-8.jpg",
+        "doctor": "Marcia",
+        "email": "marciacarroll@netbook.com",
+        "description": "A cornea transplant is an operation to remove all or part of a damaged cornea and replace it with healthy donor tissue. A cornea transplant is often referred to as keratoplasty or a corneal graft."
+    },
+    {
+        "id": "3",
+        "title": "Keratoconus solution",
+        "isActive": true,
+        "price": "$2500",
+        "picture": "./images/img-11.jpg",
+        "doctor": "Haley",
+        "email": "haleycarroll@netbook.com",
+        "description": "Keratoconus is an eye disease that affects the structure of the cornea, resulting in loss of vision. Keratoconus occurs in approximately one in 2,000 individuals, typically beginning in puberty and progressing into the mid-30s."
+    },
+    {
+        "id": "4",
+        "title": "Retina Detachment",
+        "isActive": false,
+        "price": "$5000",
+        "picture": "./images/img-9.jpg",
+        "doctor": "Dawn",
+        "email": "dawncarroll@netbook.com",
+        "description": "Retinal detachment is an eye problem that happens when your retina (a light-sensitive layer of tissue in the back of your eye) is pulled away from its normal position at the back of your eye."
+    },
+    {
+        "id": "5",
+        "title": "Color blind",
+        "isActive": true,
+        "price": "$3000",
+        "picture": "./images/img-4.jpg",
+        "doctor": "Mayra",
+        "email": "mayracarroll@netbook.com",
+        "description": "Color blindness occurs when you are unable to see colors in a normal way. It is also known as color deficiency. Color blindness often happens when someone cannot distinguish between certain colors."
+    },
+    {
+        "id": "6",
+        "title": "Children eye",
+        "isActive": true,
+        "price": "$100-$3000",
+        "picture": "./images/img-7.jpg",
+        "doctor": "Bray",
+        "email": "braycarroll@netbook.com",
+        "description": "As children grow, their eyes change quickly. Careful attention to a child's eye health can help catch problems early, while their eyes are still developing.Most of the eye is filled with a clear gel called the vitreous."
+    },
+    {
+        "id": "7",
+        "title": "Refractive Errors",
+        "isActive": true,
+        "price": "$1700-$2300",
+        "picture": "./images/img-12.jpg",
+        "doctor": "Finley",
+        "email": "finleycarroll@netbook.com",
+        "description": "Refractive error, also known as refraction error, is a problem with focusing light accurately on the retina due to the shape of the eye and or cornea.[1] The most common types of refractive error are near-sightedness"
+    },
+    {
+        "id": "8",
+        "title": "Glaucoma",
+        "isActive": false,
+        "price": "$1100",
+        "picture": "../../images/img-5.jpg",
+        "doctor": "Parsons",
+        "email": "parsonscarroll@netbook.com",
+        "description": "Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged. It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye."
+    },
+    {
+        "id": "9",
+        "title": "Strabismus",
+        "isActive": false,
+        "price": "$3,306.13",
+        "picture": "./images/img-13.jpg",
+        "doctor": "Latasha",
+        "email": "latashacarroll@netbook.com",
+        "description": "Strabismus is a condition in which the eyes do not properly align with each other when looking at an object.[2] The eye that is focused on an object can alternate.[3] The condition may be present occasionally or constantly."
+    },
+    {
+        "id": "10",
+        "title": "Lens",
+        "isActive": true,
+        "price": "$15-$1400",
+        "picture": "./images/img-6.jpg",
+        "doctor": "Perry",
+        "email": "perrycarroll@netbook.com",
+        "description": "Lens, in anatomy, a nearly transparent biconvex structure suspended behind the iris of the eye, the sole function of which is to focus light rays onto the retina. ... Cataracts that interfere with vision can be corrected by surgery."
+    }
+]
